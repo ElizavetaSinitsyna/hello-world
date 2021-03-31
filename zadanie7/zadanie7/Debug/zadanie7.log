@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\229194-21\source\repos\zadanie7\zadanie7\source.cpp(37): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\229194-21\source\repos\zadanie7\zadanie7\source.cpp(37): error C2365: system: переопределение; предыдущим определением было "функция"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1218): note:  см. объявление "system"
